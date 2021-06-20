@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1623596415 source:e:\универ, твою мать\деньги\Георгий Бьянский\Лабораторные работы\Структуры\lb1\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<iomanip>
+
